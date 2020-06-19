@@ -1,18 +1,18 @@
 module.exports = {
   parserOptions: {
     ecmaVersion: 2019,
-    sourceType: "module",
+    sourceType: 'module',
   },
   env: {
     es6: true,
     browser: true,
   },
-  extends: ["plugin:svelte3/recommended", "prettier"],
-  plugins: ["svelte3", "prettier"],
+  extends: ['prettier'],
+  plugins: ['svelte3', 'prettier'],
   overrides: [
     {
-      files: ["**/*.svelte"],
-      processor: "svelte3/svelte3",
+      files: ['**/*.svelte'],
+      processor: 'svelte3/svelte3',
     },
   ],
   rules: {
