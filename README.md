@@ -2,6 +2,13 @@
 
 This is a project template for [Svelte](https://svelte.dev) apps with [TailwindCSS](https://tailwindcss.com/).
 
+## Includes
+
+- Svelte
+- TailwindCSS
+- ESLint
+- Prettier
+
 ## Get started
 
 Install the dependencies:
