@@ -6,5 +6,8 @@
 	<p>Visit the <a class="text-indigo-700 hover:underline" href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
-<style>
+<style global>
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
 </style>
