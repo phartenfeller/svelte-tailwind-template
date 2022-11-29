@@ -10,7 +10,7 @@
     "lint": "eslint src"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^23.0.2",
+    "@rollup/plugin-commonjs": "^23.0.3",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.28.0",
@@ -20,8 +20,8 @@
     "eslint-plugin-svelte3": "^4.0.0",
     "postcss": "^8.4.19",
     "postcss-load-config": "^4.0.1",
-    "prettier-plugin-tailwindcss": "^0.1.13",
-    "rollup": "^3.4.0",
+    "prettier-plugin-tailwindcss": "^0.2.0",
+    "rollup": "^3.5.0",
     "rollup-plugin-css-only": "^4.3.0",
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-svelte": "^7.1.0",
