@@ -393,12 +393,12 @@ braces@^3.0.2, braces@~3.0.2:
     fill-range "^7.0.1"
 
 browserslist@^4.21.5:
-  version "4.21.7"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.7.tgz#e2b420947e5fb0a58e8f4668ae6e23488127e551"
-  integrity sha512-BauCXrQ7I2ftSqd2mvKHGo85XR0u7Ru3C/Hxsy/0TkfCtjrmAbPdzLGasmoiBxplpDXlPvdjX9u7srIMfgasNA==
+  version "4.21.8"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.8.tgz#db2498e1f4b80ed199c076248a094935860b6017"
+  integrity sha512-j+7xYe+v+q2Id9qbBeCI8WX5NmZSRe8es1+0xntD/+gaWXznP8tFEkv5IgSaHf5dS1YwVMbX/4W6m937mj+wQw==
   dependencies:
-    caniuse-lite "^1.0.30001489"
-    electron-to-chromium "^1.4.411"
+    caniuse-lite "^1.0.30001502"
+    electron-to-chromium "^1.4.428"
     node-releases "^2.0.12"
     update-browserslist-db "^1.0.11"
 
@@ -425,10 +425,10 @@ camelcase-css@^2.0.1:
   resolved "https://registry.yarnpkg.com/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
-caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001489:
-  version "1.0.30001495"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001495.tgz#64a0ccef1911a9dcff647115b4430f8eff1ef2d9"
-  integrity sha512-F6x5IEuigtUfU5ZMQK2jsy5JqUUlEFRVZq8bO2a+ysq5K7jD6PPc9YXZj78xDNS3uNchesp1Jw47YXEqr+Viyg==
+caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001502:
+  version "1.0.30001502"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001502.tgz#f7e4a76eb1d2d585340f773767be1fefc118dca8"
+  integrity sha512-AZ+9tFXw1sS0o0jcpJQIXvFTOB/xGiQ4OQ2t98QX3NDn2EZTSRBC801gxrsGgViuq2ak/NLkNgSNEPtCr5lfKg==
 
 chalk@^4.0.0:
   version "4.1.2"
@@ -550,10 +550,10 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-electron-to-chromium@^1.4.411:
-  version "1.4.421"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.421.tgz#2b8c0ef98ba00d4aef4c664933d570922da52161"
-  integrity sha512-wZOyn3s/aQOtLGAwXMZfteQPN68kgls2wDAnYOA8kCjBvKVrW5RwmWVspxJYTqrcN7Y263XJVsC66VCIGzDO3g==
+electron-to-chromium@^1.4.428:
+  version "1.4.428"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.428.tgz#c31fc88e854f49d8305cdabf6ec934ff1588a902"
+  integrity sha512-L7uUknyY286of0AYC8CKfgWstD0Smk2DvHDi9F0GWQhSH90Bzi7iDrmCbZKz75tYJxeGSAc7TYeKpmbjMDoh1w==
 
 es-abstract@^1.19.0, es-abstract@^1.20.4:
   version "1.21.2"
@@ -1642,9 +1642,9 @@ rimraf@^3.0.2:
     glob "^7.1.3"
 
 rollup@^3.21.0:
-  version "3.23.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.23.1.tgz#a6e50cb86a17fc2e3248d8ec12ff8666992b0780"
-  integrity sha512-ybRdFVHOoljGEFILHLd2g/qateqUdjE6YS41WXq4p3C/WwD3xtWxV4FYWETA1u9TeXQc5K8L8zHE5d/scOvrOQ==
+  version "3.25.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.25.1.tgz#9fff79d22ff1a904b2b595a2fb9bc3793cb987d8"
+  integrity sha512-tywOR+rwIt5m2ZAWSe5AIJcTat8vGlnPFAv15ycCrw33t6iFsXZ6mzHVFh2psSjxQPmI+xgzMZZizUAukBI4aQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
